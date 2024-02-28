@@ -1,0 +1,24 @@
+body {
+  background-color: aquamarine;
+  color: black;
+  font-family: "Arial";
+  height: 100%;
+  width: 100%;
+}
+header {
+  background-color: aliceblue;
+  color:black;
+  border: solid;
+}
+#mark_row {
+  background-color: aqua;
+}
+#A_grade {
+  background-color: gold;
+}
+
+.impt_word {
+  background-color: aliceblue;
+  color: black;
+  font-size: 25px;
+}
